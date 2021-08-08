@@ -1,2 +1,2 @@
 # ReinforcmentLearningForTrading
-Code for my thesis
+Repo for my thesis
